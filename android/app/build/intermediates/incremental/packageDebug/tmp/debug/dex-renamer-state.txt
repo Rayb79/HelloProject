@@ -1,0 +1,4 @@
+#Fri May 31 19:49:01 EDT 2019
+base.0=C\:\\Users\\ramau\\Desktop\\ReactNativeBootCamp\\01\\HelloProject\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
